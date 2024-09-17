@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+joblib
+sqlite3
+plotly
+eaborn
+scikit-learn
+dataprep
+IPython
+streamlit-folium
+streamlit-navigation-bar
+imbalanced-learn
+Jinja2
+MarkupSafe>=2.1.0
+
