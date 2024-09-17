@@ -3,10 +3,7 @@ pandas
 numpy
 seaborn
 scikit-learn
-dataprep
-IPython
-streamlit-folium
-streamlit-navigation-bar
+joblib
 
 
 
