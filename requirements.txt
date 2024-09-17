@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 joblib
-sqlite3
 plotly
 eaborn
 scikit-learn
